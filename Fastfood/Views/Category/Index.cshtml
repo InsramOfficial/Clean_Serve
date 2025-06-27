@@ -1,0 +1,29 @@
+﻿@using Fastfood.Models;
+@model IEnumerable<Sales>;
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Date</th>
+            <th scope="col">Payement</th>
+            <th scope="col">Status</th>
+            <th scope="col">CashReceived</th>
+            <th scope="col">PaidBack</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach(var item in Model)
+        {
+        <tr>
+            <th scope="row">@item.SaleId</th>
+            <td>@item.SaleDate</td>
+            <td>@item.Payment</td>
+            <td>@item.Status</td>
+            <td>@item.Cash_Received</td>
+            <td>@item.Paid_Back</td>
+        </tr>
+        }
+    </tbody>
+</table>

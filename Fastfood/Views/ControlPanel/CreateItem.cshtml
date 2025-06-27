@@ -1,0 +1,97 @@
+﻿@using Fastfood.ViewModel;
+@model ItemsVM;
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Create Customer</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin-top: 0px;
+            background: #ADC4CE;
+        }
+
+        .background {
+            border: 1px solid #F1F0E8;
+            background: #F1F0E8;
+            padding: 40px;
+            border-radius: 8px;
+        }
+
+        button {
+            float: right;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"></div>
+            <div class="col-md-12 background">
+                <form method="post" asp-action="CreateItem" asp-controller="ControlPanel">
+                    <h2 class="text-center">Add Item</h2>
+                    <hr>
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="form-group">
+                                    <label asp-for="ItemName">ItemName:</label>
+                                    <input asp-for="ItemName" type="text" class="form-control" placeholder="Enter Item Name">
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <label asp-for="RecentUnitPrice">UnitPrice:</label>
+                                    <input asp-for="RecentUnitPrice" type="text" class="form-control" placeholder="Enter Item Unit Price">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="form-group">
+                                    <label asp-for="Discount">Discount:</label>
+                                    <input asp-for="Discount" type="text" class="form-control" placeholder="Enter Item Discount">
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <label>Category:</label>
+                                    <select asp-for="CategoryId" class="form-control">
+                                        <option class="form-control">---Select---</option>
+                                        @foreach(var item in Model.category)
+                                        {
+                                            <option class="form-control" value="@item.CategoryId">@item.CategoryName</option>
+                                        }
+                                    </select>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="form-group">
+                                    <label asp-for="Remarks">Remarks:</label>
+                                    <input asp-for="Remarks" type="text" class="form-control" placeholder="Enter Item Remarks">
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <hr>
+                    <button class="btn btn-secondary"><a style="color:white;" asp-action="ItemsDetail" asp-controller="ControlPanel">Back</a></button>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </form>
+            </div>
+            <div class="col-md-12"></div>
+        </div>
+    </div>
+</body>
+</html>

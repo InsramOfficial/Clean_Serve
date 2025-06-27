@@ -1,0 +1,165 @@
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.AssemblyReference.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.GeneratedMSBuildEditorConfig.editorconfig
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.AssemblyInfoInputs.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.AssemblyInfo.cs
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.CoreCompileInputs.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.MvcApplicationPartsAssemblyInfo.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.RazorAssemblyInfo.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.RazorAssemblyInfo.cs
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\appsettings.Development.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\appsettings.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.staticwebassets.runtime.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.exe
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.deps.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.runtimeconfig.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.pdb
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.build.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.development.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets\msbuild.Fastfood.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets\msbuild.build.Fastfood.props
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fastfood.props
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fastfood.props
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\bundle\Fastfood.styles.css
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\projectbundle\Fastfood.bundle.scp.css
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.CopyComplete
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\refint\Fastfood.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.pdb
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.genruntimeconfig.cache
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\obj\Debug\net6.0\ref\Fastfood.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\AspNetCore.Reporting.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\AspNetCore.ReportingServices.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.CodeDom.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\My files\New Projects .Net Core 6 11-27-2023\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\appsettings.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.staticwebassets.runtime.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.exe
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.deps.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.runtimeconfig.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.pdb
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\AspNetCore.Reporting.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\AspNetCore.ReportingServices.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.AssemblyReference.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.AssemblyInfoInputs.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.AssemblyInfo.cs
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.CoreCompileInputs.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.RazorAssemblyInfo.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.RazorAssemblyInfo.cs
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\bundle\Fastfood.styles.css
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\scopedcss\projectbundle\Fastfood.bundle.scp.css
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\refint\Fastfood.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.pdb
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.genruntimeconfig.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\ref\Fastfood.dll
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\Fastfood.csproj.Up2Date
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\bin\Debug\net6.0\Fastfood.staticwebassets.endpoints.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\Insram ul haq\source\repos\Fastfood\Fastfood\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
